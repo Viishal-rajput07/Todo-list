@@ -1,3 +1,13 @@
+# Project Description
+
+This is my learning project, a TODO list app I've created using Next.js, React, Tailwind CSS, and DaisyUI. Here's what you can expect:
+
+- Easily manage your tasks with a user-friendly interface.
+- I built this project to learn and practice web development, using technologies like Next.js, React, Tailwind CSS, and DaisyUI.
+
+Come along on my learning journey and explore the world of web development with this project!
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

@@ -27,7 +27,7 @@ export default function Input() {
         <li key={i} className="mb-3">
           <div className="flex justify-around items-center">
             <h3 className="text-xl font-semibold">
-              {i + 1})&nbsp; &nbsp;&nbsp;{t.title}
+              {i + 1}){t.title}
             </h3>
             <h3>{t.desc}</h3>
             <div className="flex justify-center items-center">
